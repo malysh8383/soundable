@@ -1,6 +1,6 @@
-package org.example;
+package org.example.zoo;
 
-public class Cat  implements Soundable{
+public class Cat  implements Soundable {
     @Override
     public void makeSound(){
         System.out.println("Мяу");

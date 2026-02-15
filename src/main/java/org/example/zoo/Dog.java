@@ -1,6 +1,6 @@
-package org.example;
+package org.example.zoo;
 
- public class Dog implements Soundable {
+public class Dog implements Soundable {
 
     @Override
     public void makeSound() {

@@ -1,9 +1,9 @@
-package org.example;
+package org.example.zoo;
 
 public class Zoo {
-    private Soundable [] animals;
+    private Soundable[] animals;
 
-    public Zoo(Soundable [] animals) {
+    public Zoo(Soundable[] animals) {
         this.animals = animals;
     }
 
